@@ -1,7 +1,0 @@
-flask
-pdfplumber
-python-docx
-pytesseract
-pillow
-openai
-python-dotenv
